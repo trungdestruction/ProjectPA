@@ -1,0 +1,174 @@
+
+Steelfang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H6_Body
+  rotate: true
+  xy: 2, 232
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+H6_Ellipse
+  rotate: false
+  xy: 157, 415
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+H6_H_Hand
+  rotate: true
+  xy: 2, 347
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+H6_Hair
+  rotate: false
+  xy: 294, 135
+  size: 178, 143
+  orig: 178, 143
+  offset: 0, 0
+  index: -1
+H6_HairBot
+  rotate: false
+  xy: 135, 198
+  size: 157, 140
+  orig: 157, 140
+  offset: 0, 0
+  index: -1
+H6_Head
+  rotate: true
+  xy: 2, 18
+  size: 178, 187
+  orig: 178, 187
+  offset: 0, 0
+  index: -1
+H6_L_Ear
+  rotate: false
+  xy: 397, 387
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+H6_L_Eye
+  rotate: true
+  xy: 230, 409
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+H6_L_Eye_Top
+  rotate: false
+  xy: 28, 491
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+H6_L_Eyebrow
+  rotate: false
+  xy: 86, 479
+  size: 46, 29
+  orig: 46, 29
+  offset: 0, 0
+  index: -1
+H6_L_Foot
+  rotate: true
+  xy: 221, 474
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+H6_L_Hand
+  rotate: true
+  xy: 61, 427
+  size: 50, 94
+  orig: 50, 94
+  offset: 0, 0
+  index: -1
+H6_L_Sword
+  rotate: false
+  xy: 84, 340
+  size: 208, 67
+  orig: 208, 67
+  offset: 0, 0
+  index: -1
+H6_Line_A
+  rotate: true
+  xy: 282, 474
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+H6_Line_B
+  rotate: true
+  xy: 179, 476
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+H6_Line_C
+  rotate: true
+  xy: 335, 474
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+H6_Mouth
+  rotate: false
+  xy: 2, 496
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+H6_Nose
+  rotate: false
+  xy: 452, 465
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+H6_R_Ear
+  rotate: true
+  xy: 321, 409
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+H6_R_Eye
+  rotate: false
+  xy: 2, 434
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+H6_R_Eye_Top
+  rotate: false
+  xy: 57, 491
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+H6_R_Eyebrow
+  rotate: false
+  xy: 134, 479
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+H6_R_Foot
+  rotate: true
+  xy: 391, 474
+  size: 34, 59
+  orig: 34, 59
+  offset: 0, 0
+  index: -1
+H6_R_Sword
+  rotate: false
+  xy: 294, 280
+  size: 196, 105
+  orig: 196, 105
+  offset: 0, 0
+  index: -1

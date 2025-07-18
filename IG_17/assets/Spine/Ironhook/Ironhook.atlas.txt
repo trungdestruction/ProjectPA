@@ -1,0 +1,181 @@
+
+Ironhook.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10_Beard
+  rotate: false
+  xy: 637, 840
+  size: 154, 99
+  orig: 154, 99
+  offset: 0, 0
+  index: -1
+10_Body
+  rotate: true
+  xy: 424, 644
+  size: 213, 198
+  orig: 213, 198
+  offset: 0, 0
+  index: -1
+10_Eyepatch
+  rotate: false
+  xy: 550, 951
+  size: 147, 55
+  orig: 147, 55
+  offset: 0, 0
+  index: -1
+10_Hat
+  rotate: false
+  xy: 156, 714
+  size: 266, 154
+  orig: 266, 154
+  offset: 0, 0
+  index: -1
+10_Head
+  rotate: false
+  xy: 2, 742
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+10_L_Arm
+  rotate: true
+  xy: 788, 941
+  size: 65, 113
+  orig: 65, 113
+  offset: 0, 0
+  index: -1
+10_L_Arm_Shadow
+  rotate: true
+  xy: 203, 880
+  size: 77, 125
+  orig: 77, 125
+  offset: 0, 0
+  index: -1
+10_L_Beard
+  rotate: false
+  xy: 272, 959
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+10_L_Ear
+  rotate: false
+  xy: 699, 945
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+10_L_Eye
+  rotate: true
+  xy: 434, 955
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+10_L_Eye_Black
+  rotate: true
+  xy: 2, 985
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+10_L_Eyebrow
+  rotate: false
+  xy: 89, 972
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+10_L_Shirt
+  rotate: true
+  xy: 793, 836
+  size: 102, 213
+  orig: 102, 213
+  offset: 0, 0
+  index: -1
+10_L_Shoulder
+  rotate: true
+  xy: 2, 899
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+10_L_Shoulder_Shadow
+  rotate: true
+  xy: 330, 870
+  size: 83, 103
+  orig: 83, 103
+  offset: 0, 0
+  index: -1
+10_L_leg
+  rotate: false
+  xy: 903, 940
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+10_R_Leg
+  rotate: false
+  xy: 903, 940
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+10_Mouth
+  rotate: false
+  xy: 26, 975
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+10_Nose
+  rotate: false
+  xy: 209, 960
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+10_R_Beard
+  rotate: false
+  xy: 353, 959
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+10_R_Ear
+  rotate: true
+  xy: 488, 955
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+10_R_Eyebrow
+  rotate: false
+  xy: 153, 972
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+10_R_Shirt
+  rotate: true
+  xy: 435, 859
+  size: 90, 200
+  orig: 90, 200
+  offset: 0, 0
+  index: -1
+10_R_Trousers
+  rotate: false
+  xy: 95, 896
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+10_Sword
+  rotate: true
+  xy: 624, 605
+  size: 229, 316
+  orig: 229, 316
+  offset: 0, 0
+  index: -1

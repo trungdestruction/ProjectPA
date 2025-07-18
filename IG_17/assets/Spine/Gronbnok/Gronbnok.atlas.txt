@@ -1,0 +1,174 @@
+
+Gronbnok.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 417, 611
+  size: 242, 224
+  orig: 242, 224
+  offset: 0, 0
+  index: -1
+Hat
+  rotate: false
+  xy: 178, 621
+  size: 237, 222
+  orig: 237, 222
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 2, 691
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+Knight
+  rotate: false
+  xy: 686, 824
+  size: 144, 103
+  orig: 144, 103
+  offset: 0, 0
+  index: -1
+L_Arm
+  rotate: true
+  xy: 769, 929
+  size: 74, 129
+  orig: 74, 129
+  offset: 0, 0
+  index: -1
+L_Arm_Black
+  rotate: true
+  xy: 204, 859
+  size: 86, 141
+  orig: 86, 141
+  offset: 0, 0
+  index: -1
+L_Arm_Circle
+  rotate: false
+  xy: 380, 937
+  size: 93, 66
+  orig: 93, 66
+  offset: 0, 0
+  index: -1
+L_Ear
+  rotate: false
+  xy: 475, 936
+  size: 97, 67
+  orig: 97, 67
+  offset: 0, 0
+  index: -1
+L_Eye
+  rotate: true
+  xy: 193, 951
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+L_Eye_Top
+  rotate: false
+  xy: 29, 978
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+L_Shoulder
+  rotate: true
+  xy: 900, 923
+  size: 80, 103
+  orig: 80, 103
+  offset: 0, 0
+  index: -1
+L_Shoulder_Black
+  rotate: true
+  xy: 464, 840
+  size: 92, 115
+  orig: 92, 115
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 56, 966
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+R_Arm
+  rotate: true
+  xy: 581, 837
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1
+R_Arm_Black
+  rotate: true
+  xy: 832, 816
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+R_Arm_Circle
+  rotate: false
+  xy: 676, 933
+  size: 91, 70
+  orig: 91, 70
+  offset: 0, 0
+  index: -1
+R_Ear
+  rotate: true
+  xy: 312, 947
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+R_Eye
+  rotate: true
+  xy: 252, 950
+  size: 53, 58
+  orig: 53, 58
+  offset: 0, 0
+  index: -1
+R_Eye_Top
+  rotate: true
+  xy: 2, 979
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+R_Foot
+  rotate: true
+  xy: 116, 864
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+R_Leg
+  rotate: false
+  xy: 347, 845
+  size: 115, 90
+  orig: 115, 90
+  offset: 0, 0
+  index: -1
+R_Shoulder
+  rotate: true
+  xy: 574, 934
+  size: 69, 100
+  orig: 69, 100
+  offset: 0, 0
+  index: -1
+R_Shoulder_Black
+  rotate: true
+  xy: 2, 883
+  size: 81, 112
+  orig: 81, 112
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 138, 962
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
